@@ -31,13 +31,13 @@ pro{
 .top-cloud{
   margin-top: 20px;
   position: absolute;
-  right: 750px;
+  right: 1000px;
   top: 50px;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 700px;
+  left: 900px;
   bottom: 30;
 }
 .footer-link{
