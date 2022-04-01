@@ -30,13 +30,11 @@ pro{
 
 .top-cloud{
   margin-top: 20px;
-  position: absolute;
   right: 1000px;
   top: 50px;
 }
 
 .bottom-cloud{
-  position: absolute;
   left: 900px;
   bottom: 20;
 }
